@@ -1,0 +1,17 @@
+.t{
+   width: 30%;
+   height: 80%;
+   border-radius: 2%;
+   background-color: black;
+   justify-content: center;
+   align-items: center;
+   
+}
+p{
+    font-size: x-large;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 50%;
+}

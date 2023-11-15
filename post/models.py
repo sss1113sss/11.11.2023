@@ -6,6 +6,8 @@ class Post(models.Model):
     date = models.DateField(default='11.11.2023')
     text = models.TextField(default='')
     
+   
+    
 
     def __str__(self) -> str:
         return self.name
